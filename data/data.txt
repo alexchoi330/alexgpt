@@ -1,0 +1,45 @@
+Alex Choi                                     (778)-917-6276 | alexchoi357@outlook.com
+                                                                                                              https://alexchoi330.github.io/ | github.com/alexchoi330 
+EDUCATION 
+BSc in Computer Science at University of British Columbia 	                    2020 Sept - Present (Vancouver)
+Relevant Coursework: OOP, Data Structure & Algorithm, Software Engineering, Relational Databases
+WORK EXPERIENCE 
+CREAMO – Machine Learning Intern                                                                                 	                   Jul - Sep 2022
+• Performed data cleaning, preprocessing, analysis and modeling on complex big datasets 
+• Improved and developed an AI model with deep learning for face recognition, identification and emotions using Python, Scikit-learn, OpenCV, and an open source code achieving 99.38% accuracy 
+• Documented the project in high details for reproducibility and knowledge transfer
+Korea Institute of Science and Technology – Data Science Research Assistant                 May - Jul 2022
+• Supported the main Smart Toy research project that helps with enhancing a child’s creative thinking 
+• Aimed to reduce a child’s autism spectrum disorder symptoms for better future development and learning
+• Assisted the project even further by providing laboratory experiments, fieldworks and contributing to weekly meetings by coming up with intuitive and creative ideas
+Walmart – Customer Support, Merchandising Associate			       Feb 2018 - Oct 2019
+• Supported customers with any assistance withElectronics and Technology
+• Stocked, maintained and organized merchandises with a team of 5 other co-workers and a manager
+Air Cadets 754 Phoenix Squadron						        Sep 2015 - Jun 2017
+• Received training in flying, gliding, survival skills, physical fitness, precision drill  and public speaking
+RELEVANT EXPERIENCE 
+Full Stack Web Development (JavaScript, HTML, CSS, Node.js, REST API) 	       Sept 2021 - Jan 2022
+• Collaborated with two developers to develop a website from scratch that performs tasks  required to run a university and enable effective querying of the metadata from around campus 
+• Implemented and designed the website front-end with HTML, CSS and JavaScript 
+• Used REST API for HTTP data requests and access, and tested the functionalities with Postman 
+• Performed black/white box testing, handled SQL injections and database, and agile tested 
+• Gained exposure to Agile Scrum methodology, and many tech including ESLint,  npm/yarn, Node.js, and Json query/Transact-SQL 
+Fitness Center Database Application (PHP, HTML, MySQL) 				  May - Aug 2021
+• Led a team of 3 developers: organized scrums and delegated sprints to meet the deadline 
+• Designed a conceptual  ER model and relational models to map out the logical structure of the database
+• Developed multiple MySQL query functionalities to access, manipulate, delete and retrieve data from the relational database and scripts for generating and deleting data 
+• Designed and implemented a complete responsive front-end website using PHP and HTML 
+Android Application (Java, Android Studio) 						              Jan 2021
+• Constructed a fully functional Android Application within 24 hours with 2 other developers 
+• Created using Android Studio packages such as widgets to link Java and XML components 
+• Focused on a solution to decrease the number of mental health illness cases due to Covid-19 
+• Application identifies symptoms and provides the user with tips and tricks on how to improve  their lifestyle and a to-do list to promote healthy living  
+• Ensured the most efficient workflow and teamwork by coordinated communication 
+Bank & Stock Account Application (Java, JUnit, Swing) 				   Jun - Aug 2020
+• Implemented a user-friendly interface for a bank account with a stock market using Java 
+• Designed and created the GUI including buttons, drop down bars, startup logo and animation with Swing 
+• Gained experience with software design, data structures, debugging in Java and testing in JUnit
+SKILLS 
+Programming	| Java • Python • PHP • SQL • HTML • CSS • JavaScript 
+Tech	 	| Git • Postman • Linux • Pandas • JUnit • PostgreSql • MySQL • Node.js 
+Others 		| Problem Solving • Communication • Data Structures • Algorithm • Critical Thinking
